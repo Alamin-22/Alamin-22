@@ -4,7 +4,7 @@
 
 
 
-<img src="https://i.ibb.co/8PZnZZ7/fitness.jpg" />
+<img src="https://i.ibb.co/MkZqg0C/banner.png" />
 
 
 
