@@ -13,12 +13,12 @@
 🌐 My proficiency extends to HTML, CSS, JavaScript, reactJs, NodeJs , Firebase and many more, allowing me to build robust and scalable applications. Beyond code, I am fascinated by the potential of technology to transform lives.
 
 
-💡 Currently, I am honing my skills and aspiring to contribute to the tech landscape on a global scale. I am eager to join a visionary company, and my sights are set on giants like Google. Let's connect and build something extraordinary together!
+💡 Currently, I am updating my skills and aspiring to contribute to the tech landscape on a global scale. My ultimate goal is to secure a challenging position with a leading organization, such as Google, where I can continue to grow as a developer and contribute to cutting-edge projects. I am excited about the opportunity to be part of a forward-thinking team that values creativity and excellence in web development.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
