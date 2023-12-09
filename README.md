@@ -1,7 +1,17 @@
+
+
+
+
+
+
+<img src="https://i.ibb.co/8PZnZZ7/fitness.jpg" />
+
+
+
 <h1 align="center">Hi 👋, I'm Md. Al Amin Mollik</h1>
 <h3 align="center">Junior Web Developer | Mastering React.js | Crafting Code with Precision and Creativity</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamin-22" alt="alamin-22" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
