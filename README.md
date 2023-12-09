@@ -16,8 +16,8 @@
 #### My proficiency extends to HTML, CSS, JavaScript, reactJs, NodeJs , Firebase and many more, allowing me to build robust and scalable applications. Beyond code, I am fascinated by the potential of technology to transform lives.
 
 ## 💡 My Aspirations
- <p> Currently, I am updating my skills and aspiring to contribute to the tech landscape on a global scale. My ultimate goal is to secure a challenging position with a leading organization, such as Google, where I can continue to grow as a developer and contribute to cutting-edge projects. I am excited about the opportunity to be part of a forward-thinking team that values creativity and excellence in web development.
- </p>
+ #### Currently, I am updating my skills and aspiring to contribute to the tech landscape on a global scale. My ultimate goal is to secure a challenging position with a leading organization, such as Google, where I can continue to grow as a developer and contribute to cutting-edge projects. I am excited about the opportunity to be part of a forward-thinking team that values creativity and excellence in web development.
+ 
 
 
 
