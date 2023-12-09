@@ -1,16 +1,19 @@
 
-
-
-
-
-
-<img src="https://i.ibb.co/MkZqg0C/banner.png" />
+<img src="./banner.PNG" />
 
 
 
 <h1 align="center">Hi 👋, I'm Md. Al Amin Mollik</h1>
 <h3 align="center">Junior Web Developer | Mastering React.js | Crafting Code with Precision and Creativity</h3>
 
+ Hello, I'm Md. Al Amin Mollik, a passionate junior web developer with expertise in the MERN stack - React.js, Node.js, Express.js, and MongoDB. My journey in the world of technology is fueled by a relentless passion for crafting seamless and user-centric web experiences.
+
+🚀 I thrive on challenges and take pride in being a hard worker and quick learner. My commitment to staying on the cutting edge of technology drives my eagerness to embrace new tools and methodologies. I believe in continuous learning as the key to innovation.
+
+🌐 My proficiency extends to HTML, CSS, JavaScript, reactJs, NodeJs , Firebase and many more, allowing me to build robust and scalable applications. Beyond code, I am fascinated by the potential of technology to transform lives.
+
+
+💡 Currently, I am honing my skills and aspiring to contribute to the tech landscape on a global scale. I am eager to join a visionary company, and my sights are set on giants like Google. Let's connect and build something extraordinary together!
 
 
 <h3 align="left">Connect with me:</h3>
