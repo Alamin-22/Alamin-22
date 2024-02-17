@@ -6,13 +6,13 @@
 <h1 align="center">Hi 👋, I'm Md. Al Amin Mollik</h1>
 <h3 align="center">Junior Web Developer | Mastering React.js | Crafting Code with Precision and Creativity</h3> <br/>
 <div align="center" align="center"> 
-  <a href="mailto:shahinsadik@gmail.com">
+  <a href="mailto:mdalaminmollik96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/shahinsadik" target="_blank">
+  <a href="https://linkedin.com/in/md-al-amin-mollik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://protfolioofalamin.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div> <br/>
@@ -62,11 +62,14 @@
 <div align=center>
   <a    href="https://git.io/streak-stats"><img  width=100%  src="https://github-readme-streak-stats.herokuapp.com?user=Alamin-22&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
 
-
- <img width=100% src="https://github-readme-stats-salesp07.vercel.app/api?username=Alamin-22&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
+  <div >
+    <img width=100% src="https://github-readme-stats-salesp07.vercel.app/api?username=Alamin-22&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
   
-  <br/>
- <img width=100% align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alamin-22&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
+   <img width=100% align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alamin-22&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+ 
   
   
 </div>
