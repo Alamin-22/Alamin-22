@@ -44,11 +44,9 @@ I am currently serving as a Webmaster at CoderSquads.
 <div align="center">
   <a    href="https://git.io/streak-stats"><img  width=100%  src="https://github-readme-streak-stats.herokuapp.com?user=Alamin-22&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
 
-  <div style="display: flex; justify-content: space-between; align-items: center; gap: 2px;  margin-top: 10px;">
-    <img width=50% src="https://github-readme-stats-salesp07.vercel.app/api?username=Alamin-22&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  
-   <img width=50%  align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alamin-22&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 0px; margin-top: 10px;">
+    <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Alamin-22&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alamin-22&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 </div>
