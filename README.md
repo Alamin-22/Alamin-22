@@ -1,4 +1,4 @@
-<img src="./Banner.webp" width="100%" alt="Banner"/>
+<img src="./banner-v1.png" width="100%" alt="Banner"/>
 
 <div align="center">
   <h1>Assalamu Alaikum! 👋</h1>
